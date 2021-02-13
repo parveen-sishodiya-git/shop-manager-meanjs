@@ -1,5 +1,5 @@
 console.log("I am home grocer");
-const packageName = require('mongo');
+//const packageName = require('mongo');
 
 let app = angular.module("shopper",["ngRoute"]);
 
